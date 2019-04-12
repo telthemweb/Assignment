@@ -1,0 +1,12 @@
+C:\Users\Telthem\Desktop\AssignmentApp\Login System\Login System\bin\Debug\Login System.exe.config
+C:\Users\Telthem\Desktop\AssignmentApp\Login System\Login System\bin\Debug\Login System.exe
+C:\Users\Telthem\Desktop\AssignmentApp\Login System\Login System\bin\Debug\Login System.pdb
+C:\Users\Telthem\Desktop\AssignmentApp\Login System\Login System\bin\Debug\Login System.xml
+C:\Users\Telthem\Desktop\AssignmentApp\Login System\Login System\obj\Debug\Login System.vbprojAssemblyReference.cache
+C:\Users\Telthem\Desktop\AssignmentApp\Login System\Login System\obj\Debug\Login_System.Form1.resources
+C:\Users\Telthem\Desktop\AssignmentApp\Login System\Login System\obj\Debug\Login_System.Resources.resources
+C:\Users\Telthem\Desktop\AssignmentApp\Login System\Login System\obj\Debug\Login System.vbproj.GenerateResource.cache
+C:\Users\Telthem\Desktop\AssignmentApp\Login System\Login System\obj\Debug\Login System.vbproj.CoreCompileInputs.cache
+C:\Users\Telthem\Desktop\AssignmentApp\Login System\Login System\obj\Debug\Login System.exe
+C:\Users\Telthem\Desktop\AssignmentApp\Login System\Login System\obj\Debug\Login System.xml
+C:\Users\Telthem\Desktop\AssignmentApp\Login System\Login System\obj\Debug\Login System.pdb

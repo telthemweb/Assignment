@@ -1,0 +1,14 @@
+C:\Users\Telthem\Desktop\AssignmentApp\Mini Project\Mini Project\obj\Debug\Mini Project.vbprojAssemblyReference.cache
+C:\Users\Telthem\Desktop\AssignmentApp\Mini Project\Mini Project\obj\Debug\Mini_Project.Login.resources
+C:\Users\Telthem\Desktop\AssignmentApp\Mini Project\Mini Project\obj\Debug\Mini_Project.Resources.resources
+C:\Users\Telthem\Desktop\AssignmentApp\Mini Project\Mini Project\obj\Debug\Mini_Project.Registration.resources
+C:\Users\Telthem\Desktop\AssignmentApp\Mini Project\Mini Project\obj\Debug\Mini Project.vbproj.GenerateResource.cache
+C:\Users\Telthem\Desktop\AssignmentApp\Mini Project\Mini Project\obj\Debug\Mini Project.vbproj.CoreCompileInputs.cache
+C:\Users\Telthem\Desktop\AssignmentApp\Mini Project\Mini Project\bin\Debug\Mini Project.exe.config
+C:\Users\Telthem\Desktop\AssignmentApp\Mini Project\Mini Project\bin\Debug\Mini Project.exe
+C:\Users\Telthem\Desktop\AssignmentApp\Mini Project\Mini Project\bin\Debug\Mini Project.pdb
+C:\Users\Telthem\Desktop\AssignmentApp\Mini Project\Mini Project\bin\Debug\Mini Project.xml
+C:\Users\Telthem\Desktop\AssignmentApp\Mini Project\Mini Project\obj\Debug\Mini Project.exe
+C:\Users\Telthem\Desktop\AssignmentApp\Mini Project\Mini Project\obj\Debug\Mini Project.xml
+C:\Users\Telthem\Desktop\AssignmentApp\Mini Project\Mini Project\obj\Debug\Mini Project.pdb
+C:\Users\Telthem\Desktop\AssignmentApp\Mini Project\Mini Project\obj\Debug\Mini_Project.HomePage.resources
